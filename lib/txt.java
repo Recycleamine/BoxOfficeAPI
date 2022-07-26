@@ -1,0 +1,5 @@
+
+calss{
+public main(){
+}
+}
